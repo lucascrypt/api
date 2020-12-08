@@ -1,4 +1,4 @@
-##SEQUENCIA DO PROJETO
+### SEQUENCIA DO PROJETO
 
 - Criar o arquivo package
 ### npm init
